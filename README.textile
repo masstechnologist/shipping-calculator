@@ -2,8 +2,7 @@ To use in Shopify to add a shipping rates calculator to the cart page. Relies on
 
 h2. Dependencies
 
-jQuery >= 1.7
-Underscore.js for template ("http://underscorejs.org/#template":http://underscorejs.org/#template)
+handlebar.js for template (https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js)
 shopify_common.js
 countries.js
 
